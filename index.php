@@ -1,7 +1,7 @@
 <?php
 //测试|演示入口
 
-require_once('./library/ArraySQL.php');
+require_once('./library/ArraySQL.class.php');
 $array = array(
 	array('name' => 'danchex', 'age' => 26, 'sort' => 1),
 	array('name' => 'scropio', 'age' => 23, 'sort' => 3),
